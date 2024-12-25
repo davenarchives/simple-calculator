@@ -12,3 +12,21 @@ In Python a function is defined using the **def** keyword
 - **Subtraction**: Subtract one number from another.
 - **Multiplication**: Multiply two numbers.
 - **Division**: Divide one number by another (handles division by zero).
+
+## How to Use
+
+1. Clone or download the repository.
+2. Open a terminal or command prompt and navigate to the directory containing the script.
+3. Run the script using Python:
+   ```bash
+   python calculator.py
+   ```
+4. Follow the prompts:
+   - Enter the first number.
+   - Enter the second number.
+   - Choose an operator from the menu:
+     - `1` for addition
+     - `2` for subtraction
+     - `3` for multiplication
+     - `4` for division
+   - The result will be displayed.
