@@ -44,3 +44,14 @@ Operator:
 Choose an operator: 1
 Sum: 10 + 5 = 15
 ```
+
+## Code Overview
+
+The main functionalities are implemented through the following functions:
+
+- `add(x, y)`: Returns the sum of `x` and `y`.
+- `subtract(x, y)`: Returns the difference between `x` and `y`.
+- `multiply(x, y)`: Returns the product of `x` and `y`.
+- `division(x, y)`: Returns the quotient of `x` divided by `y` or a message if `y` is 0.
+
+The `calculator()` function serves as the main interface, prompting the user for inputs and displaying the results based on the selected operation.
