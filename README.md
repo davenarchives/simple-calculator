@@ -1,4 +1,4 @@
-# simple-calculator
+# Simple CLI Calculator
 A simple command-line calculator written in Python. This program allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 A **function** is a block of code which only runs when it is called.
