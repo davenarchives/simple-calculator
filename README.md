@@ -30,3 +30,17 @@ In Python a function is defined using the **def** keyword
      - `3` for multiplication
      - `4` for division
    - The result will be displayed.
+
+## Example Usage
+
+```plaintext
+Enter first number: 10
+Enter second number: 5
+Operator: 
+[1] Addition
+[2] Subtraction
+[3] Multiplication
+[4] Division
+Choose an operator: 1
+Sum: 10 + 5 = 15
+```
