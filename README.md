@@ -55,3 +55,7 @@ The main functionalities are implemented through the following functions:
 - `division(x, y)`: Returns the quotient of `x` divided by `y` or a message if `y` is 0.
 
 The `calculator()` function serves as the main interface, prompting the user for inputs and displaying the results based on the selected operation.
+
+## Requirements
+
+- Python 3.x
